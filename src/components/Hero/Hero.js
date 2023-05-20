@@ -18,7 +18,7 @@ const Hero = () => (
 
       <br/>
 
-      <Button onClick={() => window.open('https://www.linkedin.com/in/samarth-h-chinivar/details/experience', '_blank')}>Certificate</Button>
+      <Button onClick={() => window.open('#contact')}>Contact</Button>
     </LeftSection>
   </Section>
 );
