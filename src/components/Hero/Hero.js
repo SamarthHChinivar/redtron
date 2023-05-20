@@ -18,7 +18,7 @@ const Hero = () => (
 
       <br/>
 
-      <Button onClick={() => window.open('https://samarth-portfolio-website.000webhostapp.com')}>Contact</Button>
+      <Button onClick={() => window.open('#about', '_self')}>Contact</Button>
     </LeftSection>
   </Section>
 );
