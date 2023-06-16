@@ -80,6 +80,6 @@ export const images = [
     image : '/images/profile.jpg',
     title: 'About Me',
     description: 'Hello, my name is Samarth H Chinivar and I am based in Bengaluru, India. My current ambition is to explore and solve various real-life problems using ever-evolving technologies.',
-    visit: 'https://samarth-portfolio-website.000webhostapp.com'
+    visit: 'https://samarth-portfolio-website.000webhostapp.com/#contact'
   }
 ];
